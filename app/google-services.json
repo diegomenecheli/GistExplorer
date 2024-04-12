@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "262616168616",
+    "project_id": "gist-explorer-a04b7",
+    "storage_bucket": "gist-explorer-a04b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262616168616:android:d687a9e7b2a603ac586a9d",
+        "android_client_info": {
+          "package_name": "com.menecheli.gistexplorer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIh2gdekT98UU5zv9V0Lt7VEXd2VeAgaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
