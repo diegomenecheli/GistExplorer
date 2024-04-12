@@ -33,7 +33,7 @@ abstract class GistsDataBase : RoomDatabase() {
             Room.databaseBuilder(
                 context.applicationContext,
                 GistsDataBase::class.java,
-                "gist7_db.db"
+                "gist_db.db"
             )
                 .addCallback(object : Callback() {
                     override fun onCreate(db: SupportSQLiteDatabase) {
